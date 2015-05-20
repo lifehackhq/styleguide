@@ -1,8 +1,10 @@
-# Govt.nz style guide 
+# Lifehack style guide
 
-Prepared by content team, Govt.nz
+forked from the Govt.nz style guide 
 
-Last updated: March 2015
+Credit to the content team, Govt.nz
+
+Last updated May 2015
 
 ## Contents
 * Section 1: Grammar
